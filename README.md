@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
