@@ -150,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
