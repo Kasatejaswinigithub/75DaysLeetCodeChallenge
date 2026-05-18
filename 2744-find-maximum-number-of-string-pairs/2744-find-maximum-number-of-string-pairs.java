@@ -16,10 +16,13 @@ class Solution {
             {
                 String a=words[i];
                 String b=words[j];
+                if(a.equals("0"))
+                break;
                 String reversed=reverse(b);
                 if(reversed.equals(a))
                 {
                     count++;
+                    words[j]="0";
                     break;
                 }
             }
