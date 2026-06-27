@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2390-removing-stars-from-a-string](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 ## Sorting
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [2390-removing-stars-from-a-string](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -176,5 +178,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
