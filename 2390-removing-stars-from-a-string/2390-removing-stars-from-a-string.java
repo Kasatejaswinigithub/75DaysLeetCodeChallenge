@@ -7,12 +7,12 @@ class Solution {
             if(s.charAt(i)!='*')
             {
                 st.push(s.charAt(i));
-                i++;
+    
             }
             else{
-                i++;
                 st.pop();
             }
+            i++;
         }
         String res="";
         while(!st.empty())
