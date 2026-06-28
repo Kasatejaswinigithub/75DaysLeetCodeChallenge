@@ -1,18 +1,20 @@
 class Solution {
     public int numIdenticalPairs(int[] nums) {
-       int ans=0,count=0;
-      for(int i=0;i<nums.length;i++)
-      {
-         int maxi=nums[i];
-        for(int j=i+1;j<nums.length;j++)
+        HashMap<Integer,Integer>hm=new HashMap<>();
+        int ans=0;
+       for(int i=0;i<nums.length;i++)
+       {
+        if(hm.containsKey(nums[i]))
         {
-            if(maxi==nums[j])
-            {
-                count++;
-            }
+            ans+=hm.get(nums[i]);
+            hm.put(nums[i],hm.get(nums[i])+1);
         }
-        ans=Math.max(ans,count);
-      }  
-      return ans;
+        else{
+            hm.put(nums[i],1);
+        }
+       }
+       return ans;
+
+
     }
 }
