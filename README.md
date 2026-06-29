@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
