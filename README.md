@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
+| [2325-decode-the-message](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## String
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2325-decode-the-message](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2325-decode-the-message) |
 | [2390-removing-stars-from-a-string](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
