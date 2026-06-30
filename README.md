@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0371-sum-of-two-integers](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [1512-number-of-good-pairs](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 ## Monotonic Stack
 |  |
@@ -200,5 +201,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
