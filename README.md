@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kasatejaswinigithub/75DaysLeetCodeChallenge/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Stack
 |  |
 | ------- |
