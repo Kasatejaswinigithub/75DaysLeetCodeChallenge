@@ -1,26 +1,27 @@
 class Solution {
-    boolean isValid(String s)
-    {
-        HashSet<Character>hs=new HashSet<>();
-      for(int i=0;i<s.length();i++) 
-    {
-        char ch=s.charAt(i);
-        hs.add(ch);
-        if(hs.size()==3)
-        {
-            return true;
-        }
-    }
-    return false; 
-    }
     public int countGoodSubstrings(String s) {
        int n=s.length();
        int count=0;
-       for(int i=0;i<n-2;i++)
+       int l=0;
+       HashMap<Character,Integer>hm=new HashMap<>();
+       for(int i=0;i<n;i++)
        {
-       if(isValid(s.substring(i,i+3))){
-        count++;
-       }
+        char ch=s.charAt(i);
+        hm.put(ch,hm.getOrDefault(ch,0)+1);
+        if(i-l==3)
+        {
+            char cht=s.charAt(l);
+           hm.put(cht,hm.get(cht)-1);
+           if(hm.get(cht)==0)
+           {
+            hm.remove(cht);
+           }
+           l++;
+        }
+        if(hm.size()==3)
+        {
+            count+=1;
+        }
        }
        return count;
     }
